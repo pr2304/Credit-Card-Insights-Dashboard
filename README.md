@@ -1,1 +1,1 @@
-# Credit-Card-Dashboard
+# Credit-Card-Insights-Dashboard
